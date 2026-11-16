@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ALTERNATIVE_JRE_PATH" value="ms-21" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <envs>
+      <env name="DB_USERNAME" value="starmaker_app" />
+      <env name="DB_PASSWORD" value="#sung3978" />
+    </envs>
+    <module name="starmaker.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.starmaker.backend.StarMakerApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
